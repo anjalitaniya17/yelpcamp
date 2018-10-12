@@ -1,2 +1,2 @@
 # yelpcamp
-yelpcamp wensite 
+yelpcamp website 
